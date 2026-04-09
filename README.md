@@ -28,7 +28,7 @@ This project is a simple calculator built using HTML, CSS, and JavaScript. It su
 - `script.js`: JavaScript functions for calculator logic
 - `calculator.png`: Icon file for the browser tab
 
-Check out more projects at: https://iam269.github.io/Projects-View/
+Check out more projects at: https://itsiamdev.github.io/Projects-View/
 
 ## Live Demo
-View the live demo: [Simple Calculator](https://iam269.github.io/Projects-View/)
+View the live demo: [Simple Calculator](https://itsiamdev.github.io/Projects-View/)
